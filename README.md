@@ -6,4 +6,4 @@ This DLL file also frees certain restrictions and allows you to use **any** DLC 
 ## Changes
 - Added pattern (AOB) scanning
 - Changed method for unlocking DLC
-- Added welcome messages utilizing the in-game "mono-prompt"
+- Added welcome message call utilizing the in-game "mono-prompt"
